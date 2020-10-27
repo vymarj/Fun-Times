@@ -46,7 +46,7 @@ Henry’s Grocery, currently only stocks four items and has two promotions. Thes
 ## Tooling
 You must use:
  - Java JDK 8. _We are currently using [open JDK 8u181](https://cdn.azul.com/zulu/bin/zulu8.31.0.1-jdk8.0.181-win_x64.msi)_
- - Please use version control, prfererable _GIT_
+ - Please use version control, prefererable _GIT_
  - A recognised build tool, e.g. _gradle_, _maven_...
  
  All other tools must be freely available. Any third-party jars must be accessible via [maven central](https://mvnrepository.com/repos/central).
